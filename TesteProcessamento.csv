@@ -1,0 +1,5 @@
+Status do Arquivo: Parcial;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+RptDt;TckrSymb;Asst;AsstDesc;SgmtNm;MktNm;SctyCtgyNm;XprtnDt;XprtnCd;TradgStartDt;TradgEndDt;BaseCd;ConvsCritNm;MtrtyDtTrgtPt;ReqrdConvsInd;ISIN;CFICd;DlvryNtceStartDt;DlvryNtceEndDt;OptnTp;CtrctMltplr;AsstQtnQty;AllcnRndLot;TradgCcy;DlvryTpNm;WdrwlDays;WrkgDays;ClnrDays;RlvrBasePricNm;OpngFutrPosDay;SdTpCd1;UndrlygTckrSymb1;SdTpCd2;UndrlygTckrSymb2;PureGoldWght;ExrcPric;OptnStyle;ValTpNm;PrmUpfrntInd;OpngPosLmtDt;DstrbtnId;PricFctr;DaysToSttlm;SrsTpNm;PrtcnFlg;AutomtcExrcInd;SpcfctnCd;CrpnNm;CorpActnStartDt;CtdyTrtmntTpNm;MktCptlstn;CorpGovnLvlNm
+02/07/2025;003H11;003H;003H;CASH;EQUITY-CASH;FUNDS;;;31/12/9999;31/12/9999;;;;;BR003HCTF006;CICGRY;;;;;;1;BRL;;;;;;;;;;;;;;;;;100;1;2;;;;CI;KINEA CO-INVESTIMENTO FDO INV IMOB;31/12/9999;FUNGIBLE;15000;
+02/07/2025;0FEA11;0FEA;0FEA;CASH;EQUITY-CASH;FUNDS;;;31/12/9999;31/12/9999;;;;;BR0FEACTF006;CICGRY;;;;;;1;BRL;;;;;;;;;;;;;;;;;100;1;2;;;;CI;SPIM FUNDO DE INVESTIMENTO IMOBILIÁRIO;31/12/9999;FUNGIBLE;1631616;
+
